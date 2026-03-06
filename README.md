@@ -6,7 +6,7 @@
 
 ## 🎯 Project Overview
 
-This is a bootcamp business challenge from IronHack's Data Science & ML programme. The task: take the Google Play Store dataset, explore it visually with Python, load it into a SQLite database, and then answer **10 business questions using SQL only**.
+This is a bootcamp business challenge from IronHack's Data Science & ML programme. The task: take the Google Play Store dataset, explore it visually with Python, load it into a SQLite database, and then answer **10 business questions using SQL**.
 
 The goal is to practice the full analyst workflow — from raw data to visual EDA to structured SQL querying — and present findings in a professional format.
 
